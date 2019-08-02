@@ -1,4 +1,4 @@
-# Baze_Demo
+# React_Demo
 1. cd React_Demo
 2. npm install
 3. npm install -g json-server
